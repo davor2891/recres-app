@@ -1,0 +1,11 @@
+package.json
+package-lock.json
+dist
+release
+node_modules
+**/index.html
+.vscode/*
+**/tslint.json
+**/tsconfig*.json
+environments
+src/environments
